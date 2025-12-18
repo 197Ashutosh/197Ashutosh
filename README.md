@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on AI/ML, Computer Vision, and LLM-based systems<br>🤝 Open to collaborating on real-world AI projects & hackathons<br>🌱 Learning Deep Learning, Transformers, and model optimization<br>💬 Ask me about ML, CNNs, YOLO, LLMs, NLP<br>⚡ Fun fact: National-level hackathon finalist building production-ready AI
+🔭 Working on AI/ML, Deep Learning, Computer Vision, and LLM-based systems<br>🤝 Open to collaborating on real-world AI projects & hackathons<br>🌱 Learning Deep Learning, Transformers, and model optimization<br>💬 Ask me about ML, CNNs, YOLO, LLMs, NLP<br>⚡ Fun fact: National-level hackathon finalist building production-ready AI
 
 
 ## 🌐 Socials:
